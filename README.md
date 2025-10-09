@@ -1,5 +1,3 @@
-# conditonalStatements-JAVA
-
 # 🔄 Java `switch` Statement — Complete Explanation
 
 The **`switch` statement** in Java is a powerful decision-making structure used when a variable or expression needs to be compared against **multiple fixed values**.  
