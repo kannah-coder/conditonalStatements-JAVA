@@ -7,6 +7,15 @@ It helps simplify long chains of `if-else-if` statements and makes the code more
 
 ---
 
+# 🧠 IF–ELSE Statements in Java
+
+This folder demonstrates all major **types of `if–else` statements** in Java with examples and practical cases.  
+Understanding conditional statements is essential for making decisions in any program.
+
+---
+ 
+
+
 ## 🧠 What is a `switch` Statement?
 
 The `switch` statement tests the value of a variable or expression and **transfers control** to one of several blocks of code depending on which case matches.
@@ -94,6 +103,13 @@ It is mainly used when:
 ┗ 📜 README.md → Documentation file (this one)
 
 
+## 📂 Folder Structure
+
+📂 IFELSE/
+│
+├── IfElse.java # Covers all types of if–else statements with explanations
+├── condition1.java # Practice problems and custom condition examples
+└── README.md # This documentation file
 
 ---
 
