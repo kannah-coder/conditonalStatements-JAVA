@@ -121,6 +121,12 @@ There are **two main types**:
 
 ---
 
- 
+## 🎯 Topic: Mixing `switch` and `if–else` in Java
+
+This program demonstrates how to **combine `switch` and `if–else` statements** in one Java file for smart conditional logic handling.  
+It takes a **day number (1–7)** as input, determines the **day name**, and then checks if it’s a **weekday** or **weekend**.
+
+---
+
 
  
